@@ -15,3 +15,7 @@ My REPLIT profile:
 My discord:
 
 - e4d6ca1#2130
+
+;
+
+I have nothing else on my profile, so skip me :D
