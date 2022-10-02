@@ -11,6 +11,7 @@ Hey! I'm Grace, a 9th grader who is very passionate about computer science but a
 My REPLIT profile:
 
 - https://replit.com/@thirteen4
+
 My discord:
 
 - e4d6ca1#2130
