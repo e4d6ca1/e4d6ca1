@@ -3,7 +3,7 @@
 
   I can code in python / pygame and I am currently studying C++...
   
-  VEX 69955X
+  (the one and only) programmer for VEX 69955X
 
   I mostly code in Replit, because it's easier + visual studio code doesn't work on my school computer + I can post things more easily
   
