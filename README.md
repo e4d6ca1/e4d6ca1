@@ -1,13 +1,13 @@
 
 ++ << -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- >> ++
 
-  I can code in python / pygame and I am currently studying C++...
+  Everyday, every hour, everything of my life is coding (not even kidding).
+  
+  My goals are to get better at coding so one day I can be a Unity Game Developer- or at SOMETHING in the computer science field.
   
   (the one and only) programmer for VEX 69955X
-
-  I mostly code in Replit, because it's easier + visual studio code doesn't work on my school computer + I can post things more easily
   
-  My profile is currently empty, and will be for a while unless I decide to move away from Replit...
+  Python/Pygame/C++
 
 ++ << -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- >> ++
 
