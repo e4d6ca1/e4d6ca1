@@ -3,9 +3,7 @@
 
   Everyday, every hour, everything of my life is coding (not even kidding).
   
-  My goals are to get better at coding so one day I can be a Unity Game Developer- or at SOMETHING in the computer science field.
-  
-  (the one and only) programmer for VEX 69955X
+  (technically) a Unity Developer
   
   Python/Pygame/C++
 
