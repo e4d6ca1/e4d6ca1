@@ -1,7 +1,7 @@
 
 ++ << -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- >> ++
 
-  Everyday, every hour, everything of my life is coding (not even kidding).
+  Everyday, every hour the grind continues
   
   (technically) a Unity Developer
   
