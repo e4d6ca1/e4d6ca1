@@ -2,13 +2,7 @@
 
   Everyday, every hour the grind continues
   
-  Unity Developer
-  
-  the one and only programmer for VEX Robotics, TEAM 69955X (i hate our robot)
-  
-  Python/Pygame/C++/C# (whenever i hear java a fire burns in my body)
-  
-  A link to my Unity Games coming soon!
+  Unity Dev
 
 ++ << -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- >> ++
 
